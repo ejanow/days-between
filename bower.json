@@ -1,0 +1,15 @@
+{
+  "name": "days-between",
+  "authors": [
+    "Eric Janowski <ejanow@gmail.com>"
+  ],
+  "description": "Find the number of days between today and a given date",
+  "main": "",
+  "keywords": [
+    "dates",
+    "time"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true
+}
